@@ -1,0 +1,20 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Full Stack project to find friends that have similar responses to a personality quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krq205/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krq205/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/krq205/FriendFinder#readme"
+}
